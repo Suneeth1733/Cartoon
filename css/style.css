@@ -1,0 +1,113 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(243, 234, 234);
+}
+.logo{
+    width: 150px;
+    margin-left: auto;
+    margin-right:auto;
+    padding-top: 10px;
+}
+.welcome-text{
+    text-align: center;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.welcome-text2{
+    text-align: center;
+    font-weight: 800;
+    padding-top: 5px;
+    font-size: 35px;
+}
+.continuea{
+    margin-left: auto;
+    margin-right: auto;
+}
+.continueBtn{
+    margin-top: 40px;
+    font-size: 28px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid green;
+    background: none;
+    border-radius: 6px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-family: monospace;
+    outline: none;
+}
+.continueBtn:focus{
+    background-color: rgb(18, 235, 18);
+}
+.Video{
+    width:95%;
+    margin-top: 30px;
+    border-radius: 15px;
+    outline: none;
+}
+.video-section{
+    text-align: center;
+}
+.button-section{
+    text-align: center;
+}
+.Btns{
+    margin-top: 25px;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid green;
+    background: none;
+    border-radius: 6px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-family: monospace;
+    outline: none;
+}
+.Btns:focus{
+    background-color: rgb(0, 255, 0);
+}
+.secondText{
+    text-align: center;
+    font-weight: 800;
+    padding-top: 5px;
+    font-size: 35px;
+    margin-top: 30px;
+}
+.secondLogo{
+    width: 30%;
+    margin-top: 20px;
+}
+.welcome-section{
+    text-align: center;
+}
+.g4-text{
+    text-align: center;
+    font-weight: 700;
+    padding-top: 5px;
+    font-size: 20px;
+}
+.g4-text1{
+    text-align: center;
+    font-weight: 900;
+    padding-top: 5px;
+    font-size: 35px;
+}
+.head-section{
+    text-align: center;
+}
+.subText{
+    font-size: 150%;
+    margin-top: 5%;
+}
+.mainText{
+    font-size: 340%;
+    font-weight: 900;
+    text-align: center;
+}
+.char-section{
+    text-align: center;
+}
